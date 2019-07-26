@@ -22,3 +22,6 @@ Partie Mobile
 3. Selectionner le QR code
 4. Attendre la compilation
 
+
+## Résultat : 
+https://github.com/Laurent-A/GitHub-API/blob/master/resultat.png
